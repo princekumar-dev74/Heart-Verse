@@ -16,7 +16,7 @@
     <!--project-1 -->
     <tr>
     <td valign="top">
-        <a target="_blank" href="https://github.com/princekumar-dev74/Heart-Verse/tree/4d04d4eb2a4a92646d407e6f80714fa7883d47b3/Birthday-love">
+        <a target="_blank" href="https://github.com/princekumar-dev74/Heart-Verse/Birthday-love">
             <p align="center">Bithday-love</p>
             <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/01.png"/>
         </a>
