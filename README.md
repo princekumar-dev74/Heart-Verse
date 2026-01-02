@@ -16,26 +16,9 @@
     <!--project-1 -->
     <tr>
     <td valign="top">
-        <a href="https://github.com/princekumar-dev74/Heart-Verse/Birthday-love" target="_blank">
+        <a href="https://github.com/princekumar-dev74/Heart-Verse/Birthday-projects/Birthday-love" target="_blank">
             <p align="center">Bithday-love</p>
             <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/01.png"/>
         </a>
     </td>
 
-
-
-
-
-
-
-
-## 🔗 Social Media
-
-Follow me for more emotional surprise websites and creative dev content:
-
-- Instagram: [@webkaizen](https://instagram.com/webkaizen)
-- YouTube: [@webkaizen](https://www.youtube.com/@WebKaizenDev)
-- Telegram: [@webkaizen](https://t.me/web_kaizen_official)
-- Shop: [Shop](https://princekumar-dev74.github.io/WEBKAIZEN-SHOP/)
-
----
