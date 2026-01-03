@@ -16,14 +16,14 @@
     <!--project-1 -->
     <tr>
     <td valign="top">
-        <a target="_blank" href="https://github.com/princekumar-dev74/Heart-Verse/Birthday-projects/birthday-love">
+        <a target="_blank" href="https://github.com/princekumar-dev74/Heart-Verse/birthday-love">
             <p align="center">Birthday-love</p>
             <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/01.png"/>
         </a>
     </td>
     <td valign="top">
-        <a target="_blank" href="https://github.com/princekumar-dev74/Heart-Verse/Birthday-projects/birthday-slider">
-            <p align="center">Birthday-love</p>
+        <a target="_blank" href="https://github.com/princekumar-dev74/Heart-Verse/birthday-slider">
+            <p align="center">Birthday-Slider</p>
             <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/02.png"/>
         </a>
     </td>
