@@ -22,13 +22,13 @@
         </a>
     </td>
     <td valign="top">
-        <a target="_blank" href="https://princekumar-dev74.github.com/Heart-Verse/birthday-slider">
+        <a target="_blank" href="https://princekumar-dev74.github.io/Heart-Verse/birthday-slider">
             <p align="center">Birthday-Slider</p>
             <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/02.png"/>
         </a>
     </td>
     <td valign="top">
-        <a target="_blank" href="https://princekumar-dev74.github.com/Heart-Verse/birthday-wishes">
+        <a target="_blank" href="https://princekumar-dev74.github.io/Heart-Verse/birthday-wishes">
             <p align="center">Birthday-wishes</p>
             <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/03.png"/>
         </a>
@@ -43,13 +43,13 @@
         </a>
     </td>
     <td valign="top">
-        <a target="_blank" href="https://princekumar-dev74.github.com/Heart-Verse/cake">
+        <a target="_blank" href="https://princekumar-dev74.github.io/Heart-Verse/cake">
             <p align="center">Cake</p>
             <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/05.png"/>
         </a>
     </td>
     <td valign="top">
-        <a target="_blank" href="https://princekumar-dev74.github.com/Heart-Verse/happybirthday">
+        <a target="_blank" href="https://princekumar-dev74.github.io/Heart-Verse/happybirthday">
             <p align="center">Haooy birthday</p>
             <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/06.png"/>
         </a>
@@ -64,7 +64,7 @@
         </a>
     </td>
     <td valign="top">
-        <a target="_blank" href="https://princekumar-dev74.github.com/Heart-Verse/shooting-heart">
+        <a target="_blank" href="https://princekumar-dev74.github.io/Heart-Verse/shooting-heart">
             <p align="center">shooting-heart</p>
             <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/08.png"/>
         </a>
