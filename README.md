@@ -153,7 +153,32 @@ https://download-directory.github.io
             <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/20.png"/>
         </a>
     </td>
-
+    <td valign="top">
+        <a target="_blank" href="https://princekumar-dev74.github.io/Heart-Verse/classmate-crush">
+            <p align="center">classmate-crush</p>
+            <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/21.png"/>
+        </a>
+    </td>
+        <!--project-7-->
+    <tr>
+    <td valign="top">
+        <a target="_blank" href="https://princekumar-dev74.github.io/Heart-Verse/cherryblossom">
+            <p align="center">cherryblossom</p>
+            <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/22.png"/>
+        </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://princekumar-dev74.github.io/Heart-Verse/love-web">
+            <p align="center">love-web</p>
+            <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/23.png"/>
+        </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://princekumar-dev74.github.io/Heart-Verse/fav-singer">
+            <p align="center">fav-singer</p>
+            <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/24.png"/>
+        </a>
+    </td>
 
 
     
