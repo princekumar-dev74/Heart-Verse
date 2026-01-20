@@ -159,7 +159,7 @@ https://download-directory.github.io
             <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/21.png"/>
         </a>
     </td>
-        <!--project-7-->
+        <!--project-8-->
     <tr>
     <td valign="top">
         <a target="_blank" href="https://princekumar-dev74.github.io/Heart-Verse/cherryblossom">
@@ -179,6 +179,50 @@ https://download-directory.github.io
             <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/24.png"/>
         </a>
     </td>
+    </tr>
+        <!--project-8-->
+    <tr>
+    <td valign="top">
+        <a target="_blank" href="https://princekumar-dev74.github.io/Heart-Verse/sakura">
+            <p align="center">Sakura</p>
+            <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/25.png"/>
+        </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://princekumar-dev74.github.io/Heart-Verse/matrix-heart">
+            <p align="center">matrix-heart</p>
+            <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/26.png"/>
+        </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://princekumar-dev74.github.io/Heart-Verse/funny-proposal">
+            <p align="center">funny-proposal</p>
+            <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/27.png"/>
+        </a>
+    </td>
+        <!--project-9-->
+    <tr>
+    <td valign="top">
+        <a target="_blank" href="https://princekumar-dev74.github.io/Heart-Verse/flipcard">
+            <p align="center">flipcard</p>
+            <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/28.png"/>
+        </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://princekumar-dev74.github.io/Heart-Verse/page-message">
+            <p align="center">page-message</p>
+            <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/29.png"/>
+        </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://princekumar-dev74.github.io/Heart-Verse/valentine-letter">
+            <p align="center">valentine-letter</p>
+            <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/Heart-Verse/logos/img/30.png"/>
+        </a>
+    </td>
+    </tr>
+
+
 
 
     
